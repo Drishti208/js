@@ -23,3 +23,6 @@ console.log(null==0); //output = false
        Arrays  =>  object
        Function  =>  function
        Object  =>  object
+
+//+++++++++MEMORY++++++++++++
+//stack(primitive)   heap(non -primitive)
